@@ -3,5 +3,6 @@
 
 Participantes:
 
+* [Daniele Carvalho](https://github.com/DanCarvalhoFlutter)
 * [Estela Galante](https://github.com/EstelaGalante)
 * [Fellipe Anaia](https://github.com/fellipeanaia)
