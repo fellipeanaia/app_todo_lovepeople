@@ -8,6 +8,7 @@ Participantes:
 * [Fellipe Anaia](https://github.com/fellipeanaia)
 
 
+### Principais telas <h3>
 ![Tela de login](images/login.png)
 ![Tela de cadastro](images/cadastro.png)
 ![Tela principal](images/home.png)
